@@ -31,8 +31,8 @@ I'm constantly exploring new tools and technologies to make my projects even mor
 
 ## 📂 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anhatsingh&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhatsingh&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anhatsingh&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhatsingh&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 
