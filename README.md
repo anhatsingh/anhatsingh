@@ -21,9 +21,17 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
+I'm constantly exploring new tools and technologies to make my projects even more awesome! Here are some of the ones I currently work with:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anhatsingh&show_icons=true&theme=tokyonight)
+- **Languages**: JavaScript, Python, TypeScript, C++
+- **Web Development**: React, Node.js, Express, HTML, CSS
+- **Databases**: MySQL, MongoDB, PostgreSQL
+- **DevOps & CI/CD**: Docker, GitHub Actions, Jenkins
+- **Tools**: Git, VSCode, Postman, Figma
+
+## 📂 My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anhatsingh&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhatsingh&layout=compact&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
